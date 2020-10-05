@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">constrict_layout</string>
+    <string name="text">As its name suggests, a data warehouse is the foremost repository for the data
+available for developing business intelligence architectures and decision support
+systems. The term data warehousing indicates the whole set of interrelated
+activities involved in designing, implementing and using a data warehouse.
+It is possible to identify three main categories of data feeding into a data
+warehouse: internal data, external data and personal data.</string>
+</resources>
